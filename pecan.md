@@ -1,6 +1,6 @@
 # Sally's favorite pecan pie recipe
 [Link to website](https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/#tasty-recipes-71034)
-![Delicious]('pics/pecan-pie.jpg')
+![Delicious](pics/pecan-pie.jpg)
 
 
 ## Filling

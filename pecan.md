@@ -1,4 +1,7 @@
-# Sally's favorite pie
+# Sally's favorite pecan pie recipe
+[Link to website](https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/#tasty-recipes-71034)
+![Delicious]('/pics/pecan-pie.jpg')
+
 
 ## Filling
 - 2 and 1/2 cups (250g) shelled pecans (pecan halves)

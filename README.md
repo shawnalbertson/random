@@ -1,2 +1,3 @@
 # random
-for me, for you
+
+An archive of one-off programs and ideas for storage and preservation.

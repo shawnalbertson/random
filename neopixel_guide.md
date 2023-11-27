@@ -21,4 +21,4 @@ Arduino (mounted in pink PLA) has USB wire which can be plugged into the power b
   - change color
  
 
-![bed_lighting](pics/bed_lighting.png | width=300)
+<img src='pics/bed_lighting.png' width=300>

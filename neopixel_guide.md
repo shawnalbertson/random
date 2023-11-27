@@ -19,3 +19,4 @@ Arduino (mounted in pink PLA) has USB wire which can be plugged into the power b
   - switch on/off without unplugging
   - dim without changing color
   - change color
+![bed_lighting](pics/bed_lighting.png)
